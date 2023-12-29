@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fredyzz/react-typescript-DDD-template/static/css/main.9a0068c2.css",
+    "main.js": "/fredyzz/react-typescript-DDD-template/static/js/main.61fa3dee.js",
+    "index.html": "/fredyzz/react-typescript-DDD-template/index.html",
+    "main.9a0068c2.css.map": "/fredyzz/react-typescript-DDD-template/static/css/main.9a0068c2.css.map",
+    "main.61fa3dee.js.map": "/fredyzz/react-typescript-DDD-template/static/js/main.61fa3dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a0068c2.css",
+    "static/js/main.61fa3dee.js"
+  ]
+}
